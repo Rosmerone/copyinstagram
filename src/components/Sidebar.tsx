@@ -24,6 +24,8 @@ export const Sidebar = ({ currentView, onNavigate }: SidebarProps) => {
                 <NavItem icon={<Film size={24} />} label="Reels" />
                 <NavItem icon={<Heart size={24} />} label="Notifications" />
                 <NavItem icon={<PlusSquare size={24} />} label="Create" />
+                <NavItem icon={<PlusSquare size={24} />} label="Rafa" />
+
                 <NavItem
                     icon={<Smile size={24} />}
                     label="Neil"
